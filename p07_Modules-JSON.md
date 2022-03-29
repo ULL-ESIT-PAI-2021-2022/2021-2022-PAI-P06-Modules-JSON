@@ -8,17 +8,12 @@ Los objetivos de esta práctica son:
 * Trabajar con arrays y los métodos correspondientes a este tipo de objetos
 * Practicar la generación de informes de cubrimiento de código usando Jest y/o CodeCoverage
 
-* Conocer el formato JSON y las herramientas de JS que permiten su tratamiento
-* Trabajar con arrays y los métodos correspondientes a este tipo de objetos
-* Ser capaz de procesar ficheros de texto en JavaScript
-* Practicar la documentación de programas usando JSDoc
-* Practicar el uso de ESLint para garantizar la coherencia del estilo del código desarrollado
-* Practicar la depuración de programas JS en Visual Studio Code
-
 ### Rúbrica de evaluacion del ejercicio
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
 que se tendrán en cuenta a la hora de evaluar esta práctica:
 * Se valorará la realización de las diferentes tareas que se proponen
+* El comportamiento del programa debe ajustarse a lo solicitado en este enunciado.
+* Capacidad del programador(a) de introducir cambios en el programa desarrollado.
 * Acreditar que se sabe generar informes de cubrimiento de código utilizando tanto 
 [Jest](https://jestjs.io/)
 como
@@ -28,27 +23,20 @@ como
 * Saber corregir bugs en un programa utilizando el depurador de Visual Studio Code
 * Ser capaz de desarrollar tests unitarios para sus programas utilizando 
 [Jest](https://jestjs.io/)
-* Acreditar que conoce la herramienta 
+* Acreditar su capacidad para configurar y utilizar 
 [ESLint](https://eslint.org/)
-y que es capaz de trabajar con la misma en Visual Studio Code.
-* Acreditar que conoce la herramienta 
-[JSDoc](https://jsdoc.app/)
-y que es capaz de generar documentación para sus programas utilizando la herramienta.
+  y que es capaz de trabajar con la misma en Visual Studio Code.
+* El código ha de estar documentado con 
+[JSDoc](https://jsdoc.app/). 
+  y que es capaz de generar documentación para sus programas utilizando la herramienta.
+  Haga que la documentación del programa generada con JSDoc esté disponible a través de una web alojada en su máquina IaaS de la asignatura.
+* Acreditar que sabe depurar sus programas usando Visual Studio Code.
 * Ser capaz de resolver problemas de la plataforma Exercism, subiendo sus soluciones a la misma.
 * Acreditar que es capaz de desarrollar y ejecutar programas simples de la plataforma Jutge
 * Se comprobará que el código que el alumnado escribe se adhiere a las reglas de la Guía de Estilo de Google
   para Javascript
 * Acreditar que es capaz de editar ficheros de forma remota en su VM usando Visual Studio
   Code (VSC)
-
-* El comportamiento del programa debe ajustarse a lo solicitado en este enunciado.
-* Deben usarse estructuras de datos adecuadas para representar los diferentes elementos que intervienen en el problema.
-* Capacidad del programador(a) de introducir cambios en el programa desarrollado.
-* Se comprobará que el código que el alumnado escribe se adhiere a las reglas de la Guía de Estilo.
-* El código ha de estar documentado con [JSDoc](https://jsdoc.app/). 
-  Haga que la documentación del programa generada con JSDoc esté disponible a través de una web alojada en su máquina IaaS de la asignatura.
-* El alumnado ha de acreditar su capacidad para configurar y ejecutar ESLint en sus programas.
-* El alumnado ha de acreditar que sabe depurar sus programas usando Visual Studio Code.
 
 ### Indicaciones de caracter general
 A la hora de resolver los problemas que se le proponen, trate de usar exclusivamente las características de
@@ -66,19 +54,6 @@ la aplicación que desarrolle se organice utilizando
 
 Configure un fichero `package.json` en el directorio raíz de su repositorio de modo que ejecutando 
 `npm install` queden instaladas todas las dependencias de su proyecto.
-
-### Trabajo previo
-Estudie el capítulo 10 
-[Modules](https://eloquentjavascript.net/10_modules.html) de Eloquent JavaScript y
-el 
-[correspondiente apartado](https://javascript.info/modules)
-del Modern JS Tutorial.
-
-Estudie a continuación el tutorial
-[Read/Write JSON Files with Node.js](https://medium.com/@osiolabs/read-write-json-files-with-node-js-92d03cc82824).
-
-
-############################################################
 
 ### Análisis de Datos. Formato JSON.
 
