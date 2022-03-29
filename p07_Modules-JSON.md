@@ -70,7 +70,7 @@ Haga que cada uno de los pasos siguientes se implemente a través de una funció
 Las diferentes funciones han de extraer y procesar la información requerida en cada caso y entregarla a otra
 función *orquestadora* del proceso que será la encargada de imprimir la información obtenida en pantalla.
 
-## El partido
+#### El partido
 **1.-** Comience por acceder a los datos que se encuentran en el fichero 
 [20160502_Hawks-Pacers-game-data.json](https://github.com/fsande/PAI-Labs-Public-Data/blob/master/20160502_Hawks-Pacers-game-data.json).
 Utilice el [visualizador on-line de JSON](http://jsonviewer.stack.hu/) para una primera toma de contacto con
