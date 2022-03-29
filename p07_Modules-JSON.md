@@ -1,4 +1,4 @@
-# Práctica 7. Análisis de Datos. Módulos. JSON.
+# Práctica 7. Módulos. JSON. Análisis de Datos.
 ### Factor de ponderación: 7
 
 ### Objetivos
