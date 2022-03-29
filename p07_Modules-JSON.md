@@ -54,6 +54,8 @@ la aplicación que desarrolle se organice utilizando
 
 Configure un fichero `package.json` en el directorio raíz de su repositorio de modo que ejecutando 
 `npm install` queden instaladas todas las dependencias de su proyecto.
+Revise la información en
+[What is the file package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/#:~:text=All%20npm%20packages%20contain%20a,as%20handle%20the%20project's%20dependencies.).
 
 ### Análisis de Datos. Formato JSON.
 
@@ -158,6 +160,8 @@ así como el número de tiros libres realizados por cada equipo.
 
 ############################################################
 ## Referencias
+* [Using ES modules in Node.js](https://blog.logrocket.com/es-modules-in-node-today/)
+* [What is the file package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/#:~:text=All%20npm%20packages%20contain%20a,as%20handle%20the%20project's%20dependencies.).
 * [CodeCov](https://docs.codecov.com/docs)
 * [Visualizador on-line de JSON](http://jsonviewer.stack.hu/) 
 * [Node.js debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
