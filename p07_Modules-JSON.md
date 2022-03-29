@@ -102,7 +102,7 @@ Nótese que el número de canastas de campo de 2 puntos realizadas es en realida
 descontando los triples (`fieldGoalsMade - threePointersMade`) (porque `fieldGoalsMade` contabiliza canastas
 tanto de dos como de tres puntos).
 
-## Máximo reboteador
+#### Máximo reboteador
 **3.-** El programa imprimirá ahora el nombre del jugador con mayor número de rebotes, y la cantidad
 realizada:
 
@@ -111,7 +111,7 @@ realizada:
 ```
 El número de rebotes es la suma de rebotes defensivos (`reboundsDefensive`) y ofensivos (`reboundsOffensive`).
 
-## Escolta con mejor porcentaje de tiros libres
+#### Escolta con mejor porcentaje de tiros libres
 **4.-** El programa imprimirá el Escolta (**Guard**, G), con el mejor porcentaje de tiros triples:
 
 ```
@@ -122,7 +122,7 @@ Se imprimirá el nombre del escolta (jugador que contenga "G" en `positionShort`
 triple y que tenga el mayor porcentaje de triples en el juego.
 El porcentaje de triples es el número de triples logrados dividido por el número de los intentados.
 
-## Jugadores con al menos una asistencia
+#### Jugadores con al menos una asistencia
 **5.-** El programa imprimirá el número total de de jugadores con al menos una asistencia:
 
 ```
@@ -130,7 +130,7 @@ There were 14 players that had at least one assist
 
 ```
 
-## Equipo que realizó más tiros libres
+#### Equipo que realizó más tiros libres
 **6.-** El programa imprimirá el equipo que dispuso de más tiros libres:
 
 ```
@@ -140,7 +140,7 @@ Hawks attempted the most free throws... Pacers: 9 Hawks: 20
 Tal como se muestra, se ha de imprimir el nombre del equipo que intentó más tiros libres que el otro
 así como el número de tiros libres realizados por cada equipo.
 
-## Jugadores con más pérdidas de balón que asistencias
+#### Jugadores con más pérdidas de balón que asistencias
 **7.-** Imprima la lista de jugadores que hayan tenido más pérdidas de balón (**turnovers**) que asistencias
 (*assists*). El formato debiera ser:
 
@@ -157,18 +157,14 @@ así como el número de tiros libres realizados por cada equipo.
     * Kyle Korver has an assist to turnover ratio of 1:2
 ```
 
-############################################################
 ## Referencias
 * [Using ES modules in Node.js](https://blog.logrocket.com/es-modules-in-node-today/)
 * [What is the file package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/#:~:text=All%20npm%20packages%20contain%20a,as%20handle%20the%20project's%20dependencies.).
 * [CodeCov](https://docs.codecov.com/docs)
 * [Visualizador on-line de JSON](http://jsonviewer.stack.hu/) 
-* [Node.js debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
 * [Jest](https://jestjs.io/)
 * [ESLint](https://eslint.org/)
 * [JSDoc](https://jsdoc.app/)
-* [Exercism](https://exercism.io/)
-* [Jutge web site](https://jutge.org/)
 * [The Modern Javascript Tutorial](https://javascript.info)
 * [PAI Code Examples](https://github.com/ULL-ESIT-PAI-2021-2022/PAI-class-code-examples/tree/master/src)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
