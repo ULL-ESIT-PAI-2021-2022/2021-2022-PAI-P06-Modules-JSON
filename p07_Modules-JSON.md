@@ -58,7 +58,6 @@ Revise la información en
 [What is the file package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/#:~:text=All%20npm%20packages%20contain%20a,as%20handle%20the%20project's%20dependencies.).
 
 ### Análisis de Datos. Formato JSON.
-
 En esta práctica se trabajará con datos estadísticos correspondientes a un partido de baloncesto de la NBA.
 Los datos del partido se han obtenido en formato JSON de 
 [stats.nba.com's Box Score](https://stats.nba.com/scores/03/05/2020) 
@@ -79,12 +78,12 @@ los datos de ese partido.
 Almacene los datos en una estructura de datos adecuada para su procesamiento.
 La estructura contendrá un vector con objetos jugador *player*. 
 
-Desarrolle programa `pai-lab-06-basket-stats.js` que imprima en pantalla:
+Desarrolle programa `pai-lab-07-basket-stats.js` que imprima en pantalla:
 
 * El identificador del partido (debería ser algo como `Game ID: 0021500750`).
 * La relación de atributos (*properties*) asociadas con cada jugador.
 
-## El Resultado
+#### El Resultado
 **2.-** El programa imprimirá además de la información anterior, el resultado final del partido. 
 La salida tendrá el formato:
 
